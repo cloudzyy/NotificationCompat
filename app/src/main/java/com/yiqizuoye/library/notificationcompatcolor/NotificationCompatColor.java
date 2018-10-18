@@ -24,7 +24,7 @@ import java.util.Stack;
  * <p>
  * 默认使用方法在自定义布局后调用 或在 builder.setContent(contentView)后调用下列方法
  * <p>
- * NotificationCompatColor.byAuto(context)
+ * NotificationCompatColor.AutomationUse(context)
  * .setContentTitleColor(contentView, R.id.primary_tv_title)
  * .setContentTextColor(contentView, R.id.primary_tv_time);
  * <p>
