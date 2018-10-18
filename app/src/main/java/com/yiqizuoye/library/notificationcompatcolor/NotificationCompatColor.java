@@ -25,8 +25,8 @@ import java.util.Stack;
  * 默认使用方法在自定义布局后调用 或在 builder.setContent(contentView)后调用下列方法
  * <p>
  * NotificationCompatColor.AutomationUse(context)
- * .setContentTitleColor(contentView, R.id.primary_tv_title)
- * .setContentTextColor(contentView, R.id.primary_tv_time);
+ * .setContentTitleColor(RemoteViews remoteViews, int contentTitleIds)
+ * .setContentTextColor(RemoteViews remoteViews, contentTextIds);
  * <p>
  * 经测试Miui10 Miui9返回正确 Flyme返回正确 SanSung s8返回正常 HuWei返回正常 Oppo vivo 返回正常 Smartisan OS返回正常
  *
