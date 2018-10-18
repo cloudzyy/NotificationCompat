@@ -1,4 +1,4 @@
-package com.yiqizuoye.library.notificationcompatcolor;
+package com.cloud.library.notificationcompatcolor;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

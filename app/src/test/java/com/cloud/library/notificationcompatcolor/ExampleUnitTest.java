@@ -1,4 +1,4 @@
-package com.yiqizuoye.library.notificationcompatcolor;
+package com.cloud.library.notificationcompatcolor;
 
 import org.junit.Test;
 
