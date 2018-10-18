@@ -11,13 +11,12 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Build;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.RemoteViews;
 import android.widget.TextView;
 
 @SuppressWarnings("deprecation")
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
 
     private final int mSmallIconId = R.mipmap.action;
     private final int mLargeIconId = R.mipmap.notifi_icon;
