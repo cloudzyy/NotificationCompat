@@ -5,6 +5,8 @@
 
 核心类：NotificationCompatColor
 
+详细参考：https://blog.csdn.net/cloudzyy/article/details/83151090
+
 
 
 
