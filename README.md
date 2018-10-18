@@ -3,6 +3,8 @@
 
 使用：NotificationCompatColor.AutomationUse(context).setContentTitleColor(RemoteViews remoteViews, int contentTitleIds).setContentTextColor(RemoteViews remoteViews, contentTextIds);
 
+核心类：NotificationCompatColor
+
 
 
 
